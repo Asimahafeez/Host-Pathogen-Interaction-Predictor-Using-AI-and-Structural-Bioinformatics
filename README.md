@@ -13,6 +13,7 @@ Advanced Streamlit app to predict host–pathogen protein interaction likelihood
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+deployed link; https://host-pathogen-interaction-predictor-using-ai-and-structural-bi.streamlit.app/
 ```
 
 Input CSV columns (for training): host_id, pathogen_id, host_seq, pathogen_seq, label (0/1)
